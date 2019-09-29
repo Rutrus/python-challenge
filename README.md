@@ -1,3 +1,5 @@
+Reto que Paradigma Digital propone para resolver. twitter.com/@paradigmate  github.com/paradigmadigital
+
 La Compañía Plateada S.A. necesita hacer un estudio de cuanta gente vive en cada región de Juego de Tornos. Para ello, hay que construir un proyecto basado en microservicios que permita consultar y dar de alta datos sobre personajes y lugares de Poniente a través de APIs.
 Su idea es la siguiente:
 - Un microservicio para los Personajes (CRUD).
